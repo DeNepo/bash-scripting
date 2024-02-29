@@ -34,6 +34,6 @@ Master text processing techniques using Bash, including searching, replacing, an
 
 Delve into more advanced topics, including process management, signals, and error handling, to elevate your Bash scripting skills.
 
-### [Module 8: Books](./books/)
+### [Module 8: Books](./8-books/)
 
 Happy scripting! 🚀
