@@ -6,34 +6,48 @@ Welcome to Bash Scripting Master class! This course is designed to provide you w
 
 ## Course Overview
 
-### [Module 1: Introduction to Bash](./1-introduction-to-bash/)
+### [Module 1: How to build a bash script](./1-build-bash-script/)
 
-In this module, we will cover the basics of Bash, including understanding the command line, navigating the file system, and executing basic commands.
+In this module, you'll delve into the fundamental aspects of building a Bash script. From understanding the basic structure to incorporating essential commands, this module sets the foundation for your journey into Bash scripting.
 
-### [Module 2: Variables and Data Types](./2-variables-and-data-types/)
+### [Module 2: Variables and shell expansions](./2-variables-and-shell-expansions/)
 
-Learn how to work with variables, manipulate strings, and handle different data types in Bash scripting.
+Explore the world of variables and shell expansions in Module 2. Learn how to use variables to store and retrieve information, and grasp the power of shell expansions to streamline your scripts and make them more dynamic.
 
-### [Module 3: Control Structures](./3-control-structures/)
+### [Module 3: How bash process commands](./3-how-bash-process-commands/)
 
-Explore conditional statements, loops, and decision-making in Bash scripts to create dynamic and responsive scripts.
+Gain insight into the inner workings of Bash as it processes commands. Module 3 provides a deep dive into the execution of commands, allowing you to optimize your scripts for efficiency and performance.
 
-### [Module 4: Functions and Modularization](./4-functions-and-modularization/)
+### [Module 4: Requesting user input](./4-user-input/)
 
-Understand how to define and use functions for code modularity, improving the readability and maintainability of your scripts.
+Learn the art of interaction with users in Module 4. Understand how to prompt for and handle user input, enhancing the versatility of your scripts and making them more user-friendly.
 
-### [Module 5: File Operations](./5-file-operations/)
+### [Module 5: Logic](./5-logic/)
 
-Learn essential file operations, such as reading from and writing to files, handling permissions, and managing directories.
+Module 5 introduces the world of logic in Bash scripting. Master the use of conditional statements and logical operators to create scripts that respond intelligently to different scenarios.
 
-### [Module 6: Text Processing](./6-text-processing/)
+### [Module 6: processing options and reading files](./6-process-options-and-reading-files/)
 
-Master text processing techniques using Bash, including searching, replacing, and manipulating text within files.
+Explore advanced techniques in Module 6, focusing on processing options and reading files. Acquire the skills to handle command-line options and efficiently read and manipulate file data within your scripts.
 
-### [Module 7: Advanced Topics](./7-advanced-topics/)
+### [Module 7: Arrays and for loops](./7-arrays-and-for-loops/)
 
-Delve into more advanced topics, including process management, signals, and error handling, to elevate your Bash scripting skills.
+Dive into the versatility of arrays and for loops in Module 7. Learn how to iterate through data efficiently, making your scripts more powerful and capable of handling complex tasks.
 
-### [Module 8: Books](./8-books/)
+### [Module 8: Debugging](./8-debugging/)
+
+Master the art of debugging in Module 8. Understand common pitfalls, implement effective debugging strategies, and ensure your scripts run smoothly and error-free.
+
+### [Module 9: Automation](./9-automation/)
+
+In Module 9, discover how to automate repetitive tasks, saving time and effort. Explore techniques to schedule and execute scripts automatically, transforming your workflow.
+
+### [Module 10: Working with remote servers](./10-working-with-remote-servers/)
+
+Extend your scripting capabilities to remote servers in Module 10. Learn how to connect, execute commands, and manage resources on remote servers, enhancing your ability to script for diverse environments.
+
+### [Module 11: Books](./11-books/)
+
+Wrap up the course with Module 11, where you'll find recommended reading materials to deepen your understanding of Bash scripting. Explore additional resources to continue your learning journey beyond the master class.
 
 Happy scripting! 🚀
