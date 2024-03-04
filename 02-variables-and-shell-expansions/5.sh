@@ -24,3 +24,7 @@ echo "The current date and time is: ${time}"
 # %H: Hour (e.g. 12)
 # %M: Minute (e.g. 30)
 # %S: Second (e.g. 30)
+
+
+# Another example
+echo "The current date and time is: $(date +"%Y-%m-%d %H:%M:%S")"
