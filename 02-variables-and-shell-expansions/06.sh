@@ -4,7 +4,7 @@
 # Date: 2024-03-02
 # Modified: 2024-03-02
 # Description: Back up all files on the home directory imporved version
-# Usage: ./6.sh
+# Usage: ./06.sh
 
 
 # To back up all files in the home directory, you can use the following command

@@ -4,7 +4,7 @@
 # Date: 2024-03-03
 # Modified: 2024-03-03
 # Description:  Variables(User defined variables)
-# Usage: ./2.sh
+# Usage: ./02.sh
 
 
 # What is a variable?

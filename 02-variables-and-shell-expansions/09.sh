@@ -4,7 +4,7 @@
 # Date: 2024-03-04
 # Modified: 2024-03-04
 # Description: Tilde expansion
-# Usage: ./9.sh
+# Usage: ./09.sh
 
 # What is tilde expansion?
 # Tilde expansion is a way to refer to home directory in bash.

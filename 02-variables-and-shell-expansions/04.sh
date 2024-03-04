@@ -4,7 +4,7 @@
 # Date: 2024-03-03
 # Modified: 2024-03-03
 # Description:  Parameter expansion
-# Usage: ./4.sh
+# Usage: ./04.sh
 
 
 # What is parameter expansion?

@@ -4,7 +4,7 @@
 # Date: 2024-03-02
 # Modified: 2024-03-02
 # Description: Check your shell, give the script execute permission and run it
-# Usage: ./1.sh
+# Usage: ./01.sh
 
 
 

@@ -4,7 +4,7 @@
 # Date: 2024-03-04
 # Modified: 2024-03-04
 # Description: bc command for floating point operations
-# Usage: ./8.sh
+# Usage: ./08.sh
 
 # What is bc command?
 # bc command is a command line calculator that performs floating point operations.

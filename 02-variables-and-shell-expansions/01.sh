@@ -4,7 +4,7 @@
 # Date: 2024-03-03
 # Modified: 2024-03-03
 # Description:  Shell parameters
-# Usage: ./1.sh
+# Usage: ./01.sh
 
 
 # What is a parameter ?

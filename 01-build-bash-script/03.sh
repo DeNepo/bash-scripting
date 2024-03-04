@@ -4,7 +4,7 @@
 # Date: 2024-03-02
 # Modified: 2024-03-02
 # Description: The core componenets of a abash script
-# Usage: ./3.sh
+# Usage: ./03.sh
 
 # 1. The first part of a bash script is called a shebang
 # It is used to tell the system which interpreter to use to run the script
@@ -19,5 +19,5 @@ echo "Hello, from bash script"
 # 3. The third part of a bash script is the exit code
 # The exit code is used to tell the system if the script was successful or not
 # 0 means that the script was successful
-# 1 means that the script was not successful
+# non-zero means that the script was not successful
 exit 0

@@ -4,7 +4,7 @@
 # Date: 2024-03-03
 # Modified: 2024-03-03
 # Description:  Command substitution
-# Usage: ./5.sh
+# Usage: ./05.sh
 
 # What is command substitution?
 # Command substitution is a mechanism by which the shell performs a command and replaces it with its output or in a varibale.

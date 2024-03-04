@@ -4,7 +4,7 @@
 # Date: 2024-03-03
 # Modified: 2024-03-03
 # Description: Arithmatic expansion
-# Usage: ./6.sh
+# Usage: ./07.sh
 
 
 # What is arithmatic expansion?

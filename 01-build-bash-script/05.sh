@@ -4,7 +4,7 @@
 # Date: 2024-03-02
 # Modified: 2024-03-02
 # Description: Set up secure script permissions
-# Usage: ./5.sh
+# Usage: ./05.sh
 
 
 

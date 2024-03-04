@@ -4,7 +4,7 @@
 # Date: 2024-03-02
 # Modified: 2024-03-02
 # Description: Add scripts to the PATH
-# Usage: ./7.sh
+# Usage: ./07.sh
 
 
 # To add the script to the PATH, you can use the following command

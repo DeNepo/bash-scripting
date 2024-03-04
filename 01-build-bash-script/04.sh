@@ -4,7 +4,7 @@
 # Date: 2024-03-02
 # Modified: 2024-03-02
 # Description: Make the script more professional
-# Usage: ./4.sh
+# Usage: ./04.sh
 
 # Comments are used to explain the code, and they are not executed
 # Comments created by using the # symbol

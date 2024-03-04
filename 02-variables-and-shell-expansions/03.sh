@@ -4,7 +4,7 @@
 # Date: 2024-03-03
 # Modified: 2024-03-03
 # Description:  Variables(Shell defined)
-# Usage: ./3.sh
+# Usage: ./03.sh
 
 
 # What is a shell variable?

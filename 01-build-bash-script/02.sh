@@ -4,7 +4,7 @@
 # Date: 2024-03-02
 # Modified: 2024-03-02
 # Description: shells vs scripts
-# Usage: ./2.sh
+# Usage: ./02.sh
 
 # What is a shell?
 # A shell is a program that takes commands from the keyboard and gives them to the operating system to perform.
