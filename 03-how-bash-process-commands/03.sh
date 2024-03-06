@@ -25,16 +25,6 @@ echo $name > file.txt
 # we have 4 tokens: echo, $name and file.txt all are words, because they don't contain any unquoted metacharacters.
 # > is an operator, because it contains one unquoted metacharacter.
 
-
-
-
-
-
-
-
-
-
-
-
+# test
 
 exit 0
