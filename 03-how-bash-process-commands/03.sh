@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Author: Samir M.
-# Date: 2024-03-05
-# Modified: 2024-03-05
+# Date: 2024-03-07
+# Modified: 2024-03-07
 # Description: Tokenisation
-# Usage: .\02.sh
+# Usage: .\03.sh
 
 # Tokenisation:
 # The process of breaking a command line into its a smaller parts called tokens using metacharacters.
@@ -17,6 +17,10 @@
 # A word  doesn't contain any unquoted metacharacters.
 # An operator does contain at least one unquoted metacharacters.
 
+# There are two type of operators:
+# 1. Control operators: ;, (, ), &&, ||, & , |, ;;, ;&, ;;&, |& and newline.
+# 2. Redirection operators: <, >. <<, >>, <&, >& and <>
+
 # Example:
 
 name="Sam"
@@ -25,6 +29,7 @@ echo $name > file.txt
 # we have 4 tokens: echo, $name and file.txt all are words, because they don't contain any unquoted metacharacters.
 # > is an operator, because it contains one unquoted metacharacter.
 
-# test
+
 
 exit 0
+
