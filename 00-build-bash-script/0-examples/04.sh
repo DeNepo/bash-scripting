@@ -3,12 +3,10 @@
 # Author: Samir M.
 # Date: 2024-03-02
 # Modified: 2024-03-02
-# Description: Make the script more professional
+# Description: Make your script more professional.
 # Usage: ./04.sh
 
-# Comments are used to explain the code, and they are not executed
-# Comments created by using the # symbol
-
+############################################################
 
 # To make your script more professional, you can use 5 pecies of information
 
@@ -19,3 +17,8 @@
 # 5. Usage : how to use the script 
 
 exit 0
+############################################################
+# How to run the script:
+# 1. Open the terminal
+# 2. `chmod 744 <path-to-the-script>`
+# 3. `./<path-to-the-script>`
