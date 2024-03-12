@@ -6,7 +6,7 @@
 # Description: The $SHELL varibale
 # Usage: ./02.sh
 
-############################################################
+#-------------------------------------------------------------#
 
 # $SHELL is a shell variable that contains the path to the current shell
 
@@ -20,8 +20,7 @@ echo "Your default shell is {$SHELL}"
 # Are there any other shell variables?
 
 exit 0
-
-############################################################
+#-------------------------------------------------------------#
 
 # How to run the script:
 # 1. Open the terminal

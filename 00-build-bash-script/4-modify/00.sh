@@ -6,7 +6,7 @@
 # Description: The main components of a shell script
 # Usage: ./00.sh
 
-#################################################
+#-------------------------------------------------------------#
 
 # Shell script consists of three main components:
 
@@ -17,7 +17,7 @@
 # 3. Exit status will be at the end of the script
 
 exit 0 
-################################################
+#-------------------------------------------------------------#
 
 # How to run the script:
 # 1. Open the terminal

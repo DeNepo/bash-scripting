@@ -6,7 +6,7 @@
 # Description: Make your script more professional.
 # Usage: ./04.sh
 
-############################################################
+#-------------------------------------------------------------#
 
 # To make your script more professional, you can use 5 pecies of information
 
@@ -17,7 +17,7 @@
 # 5. Usage : how to use the script 
 
 exit 0
-############################################################
+#-------------------------------------------------------------#
 # How to run the script:
 # 1. Open the terminal
 # 2. `chmod 744 <path-to-the-script>`
