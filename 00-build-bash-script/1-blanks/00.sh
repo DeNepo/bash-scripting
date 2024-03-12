@@ -6,7 +6,7 @@
 # Description: The main components of a shell script
 # Usage: _/__.sh
 
-#################################################
+#-------------------------------------------------------------#
 
 # Shell script consists of three main ____________:
 
@@ -22,7 +22,7 @@
 # Typically, ___ indicates success and non _____ indicates failure.
 
 exit 0
-################################################
+#-------------------------------------------------------------#
 
 # How to run the script:
 # 1. Open the ________

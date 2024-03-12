@@ -6,7 +6,7 @@
 # Description: Add and remove scripts to/from the PATH
 # Usage: ./___.sh
 
-#################################################################
+#-------------------------------------------------------------#
 
 # To see the PATH variable, you can use the following command
 echo "{$PATH}"
@@ -24,7 +24,7 @@ export PATH=${PATH%:"________"}
 echo "{$PATH}"
 
 exit 0
-#################################################################
+#-------------------------------------------------------------#
 
 # How to run the script:
 # 1. Open the ________

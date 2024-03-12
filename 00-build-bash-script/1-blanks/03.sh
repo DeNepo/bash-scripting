@@ -6,7 +6,7 @@
 # Description: Comments in bash script.
 # Usage: ./___.sh
 
-############################################################
+#-------------------------------------------------------------#
 
 # Comments used to describe ______________.
 
@@ -25,7 +25,7 @@ echo "Comments in bash script." # Inline comment.
 # The shebang is not a comment because it is ________ by the shell to determine the ________ to be used for executing the script.
 
 exit 0
-############################################################
+#-------------------------------------------------------------#
 
 # How to run the script:
 # 1. Open the ________

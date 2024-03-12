@@ -6,7 +6,7 @@
 # Description:  Make your script more professional.
 # Usage: ./___.sh
 
-############################################################
+#-------------------------------------------------------------#
 
 # To make your script more professional, you can use 5 pieces of information
 
@@ -17,7 +17,7 @@
 # 5. __________ : how to use the script 
 
 exit 0
-############################################################
+#-------------------------------------------------------------#
 # How to run the script:
 # 1. Open the ________
 # 2. `chmod ___ <path-to-the-script>`

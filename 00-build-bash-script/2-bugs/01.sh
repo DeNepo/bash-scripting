@@ -6,7 +6,7 @@
 # Description: echo command
 # Usage: ./01.sh
 
-#####################################################
+#-------------------------------------------------------------#
 
 # The echo command is used to displaying text or variables on the terminal
 
@@ -16,7 +16,7 @@ echo  "Hello,\nWorld! second example"
 
 echo  "Hello,\tWorld! third example"
 
-########################################################
+#-------------------------------------------------------------#
 
 
 

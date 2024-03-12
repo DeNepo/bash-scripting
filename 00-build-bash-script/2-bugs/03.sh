@@ -6,7 +6,7 @@
 # Description: Comments in bash script.
 # Usage: ./02.sh
 
-############################################################
+#-------------------------------------------------------------#
 
 # Comments used to describe the script or the code.
 
@@ -22,7 +22,8 @@ echo "Comments in bash script." # Inline comment.
 # Why the shebang is not a comment?
 
 exit 0
-############################################################
+
+#-------------------------------------------------------------#
 
 # How to run the script:
 # 1. Open the terminal

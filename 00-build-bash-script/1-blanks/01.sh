@@ -6,7 +6,7 @@
 # Description: echo command
 # ______: ./01.sh
 
-#####################################################
+#-------------------------------------------------------------#
 
 echo "__________ first example" # Hello, World! first example
 
@@ -19,7 +19,7 @@ echo -e "__________ third example" # Hello, World! third example
 # What is the difference between the three echo commands above?
 
 exit 0
-########################################################
+#-------------------------------------------------------------#
 
 # How to run the script:
 # 1. Open the ________

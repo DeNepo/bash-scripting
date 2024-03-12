@@ -6,7 +6,7 @@
 # Description: Set up secure script permissions
 # Usage: ./___.sh
 
-#################################################################
+#-------------------------------------------------------------#
 
 # To see the file permission, you can use the following command
 ls -l ___.sh
@@ -30,7 +30,7 @@ ls -l ___.sh
 # ________ means that the owner has read, write and execute permission, and the group and public have only read permission
 
 exit 0
-#################################################################
+#-------------------------------------------------------------#
 
 # How to run the script:
 # 1. Open the ________

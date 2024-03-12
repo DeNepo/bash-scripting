@@ -6,7 +6,7 @@
 # Description: Add and remove scripts to/from the PATH
 # Usage: ./05.sh
 
-#################################################################
+#-------------------------------------------------------------#
 
 
 # To see the PATH variable, you can use the following command
@@ -25,7 +25,8 @@ export PATH=${PATH%:"$HOME"/Desktop/work/master-classes/bash-scripting/00-build-
 echo "{$PATH}"
 
 exit 0
-#################################################################
+
+#-------------------------------------------------------------#
 
 # How to run the script:
 # 1. Open the terminal

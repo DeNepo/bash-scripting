@@ -6,7 +6,7 @@
 # Description: echo command
 # Usage: ./01.sh
 
-#####################################################
+#-------------------------------------------------------------#
 
 # The echo command is used to displaying text or variables on the terminal
 
@@ -19,7 +19,8 @@ echo -e "Hello,\tWorld! third example"
 # What is the difference between the three echo commands above?
 
 exit 0
-########################################################
+
+#-------------------------------------------------------------#
 
 # How to run the script:
 # 1. Open the terminal
