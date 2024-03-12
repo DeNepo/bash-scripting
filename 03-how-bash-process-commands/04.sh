@@ -25,6 +25,8 @@ else
     echo "file.txt doesn't exist"
 fi
 
-
+# -f is a unary operator that returns true if the file exists and is a regular file.
+# commands are if, then, else , fi and echo.
+# simicoln is used to sperate the commands.
 
 exit 0

@@ -46,5 +46,4 @@
 # step 5: Redirection:
 # Bash performs redirections and then executes the command.
 
-
 exit 0
