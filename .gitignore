@@ -1,0 +1,34 @@
+# Ignore system and editor-specific files
+*.swp
+.DS_Store
+
+# Ignore compiled binaries
+*.o
+*.out
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+.tmp/
+.temp/
+
+# Ignore user-specific files
+.idea/
+.vscode/
+
+# Ignore environment-specific files
+.env
+
+# Ignore generated documentation
+doc/
+
+# Ignore compiled bash scripts
+*.shc
+
+# Ignore backup files
+*.bak
+
+# Ignore dependencies and virtual environments
+node_modules/
+venv/
