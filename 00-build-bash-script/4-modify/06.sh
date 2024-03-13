@@ -9,7 +9,7 @@
 #-------------------------------------------------------------#
 
 # To see the file permission, you can use the following command
-ls -l 06.sh
+ls -a 09.sh
 
 # The output will be similar to the following
 # -rwxr--r-- 1 sam staff 624 Mar  2 12:00 6.sh

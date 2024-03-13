@@ -1,4 +1,4 @@
-#!/bin/bash
+#/bin/bash
 
 # Author: Samir M.
 # Date: 2024-03-02
@@ -7,8 +7,6 @@
 # Usage: ./02.sh
 
 #-------------------------------------------------------------#
-
-# Comments used to describe the script or the code.
 
 # Single line comment.
 
@@ -21,7 +19,7 @@ echo "Comments in bash script." # Inline comment.
 
 # Why the shebang is not a comment?
 
-exit 0
+exit 23
 
 #-------------------------------------------------------------#
 

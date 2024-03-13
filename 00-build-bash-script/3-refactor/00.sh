@@ -3,23 +3,28 @@
 # Author: Samir M.
 # Date: 2024-03-12
 # Modified: 2024-03-12
-# Description: The main components of a shell script
-# Usage: ./00.sh
+# Description: This script demonstrates the basics of a shell script.
+# Usage: Just run the script and witness the magic!
 
 #-------------------------------------------------------------#
 
-# Shell script consists of three main components:
+# Wow, so we have some comments here explaining stuff. How exciting!
 
-# 1. Shebang must be the first line of the script
+# The shebang is like the entrance door of this script. It's there because it has to be there. Duh!
 
-# 2. Commands
+# Commands? Yeah, sure. Let's write some. Or maybe not. Let's just skip to the exit status.
 
-# 3. Exit status will be at the end of the script
+# Exit status, the grand finale of our script. Exiting with a status of 0, because why not?
 
 exit 0 
+
 #-------------------------------------------------------------#
 
 # How to run the script:
 # 1. Open the terminal
-# 2. `chmod 744 <path-to-the-script>`
-# 3. `./<path-to-the-script>`
+# 2. Find the script file buried in your filesystem
+# 3. Try to remember the chmod command and what those numbers mean
+# 4. Execute the script with the precise combination of dots and slashes
+# 5. Wonder why you bothered running it in the first place
+
+

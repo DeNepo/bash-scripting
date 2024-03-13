@@ -3,31 +3,37 @@
 # Author: Samir M.
 # Date: 2024-03-12
 # Modified: 2024-03-12
-# Description: Add and remove scripts to/from the PATH
-# Usage: ./05.sh
+# Description: Adding and removing scripts from the PATH variable.
+# Usage: Execute the script and witness the magic of PATH manipulation!
 
 #-------------------------------------------------------------#
 
+# Let's dive into the mysterious world of the PATH variable.
 
-# To see the PATH variable, you can use the following command
-echo "{$PATH}"
+# To gaze upon the PATH variable in all its glory, behold the following command.
 
-# Add scripts to the PATH allows you to run the script from any directory without specifying the full path
+echo "{$PATH}" # But wait, why are we enclosing PATH in curly braces? The world may never know.
 
-## To add 0-examples to the PATH, you can use the following command (replace the path with your own)
+# Adding scripts to the PATH enables you to summon them from any directory with ease.
+
+## Behold, the incantation to add 0-examples to the PATH. Replace the path with your own!
+
 export PATH=$PATH:$HOME/Desktop/work/master-classes/bash-scripting/00-build-bash-script/0-examples
 
-echo "{$PATH}"
+echo "{$PATH}" # Let's admire the transformed PATH. Isn't it mesmerizing?
 
-## To remove 0-examples from the PATH, you can use the following command (replace the path with your own)
+## And now, the sacred ritual to remove 0-examples from the PATH. Replace the path with your own!
+
 export PATH=${PATH%:"$HOME"/Desktop/work/master-classes/bash-scripting/00-build-bash-script/0-examples}
 
-echo "{$PATH}"
+echo "{$PATH}" # Witness the PATH once more, now stripped of its former glory.
 
 exit 0
+
 #-------------------------------------------------------------#
 
 # How to run the script:
-# 1. Open the terminal
-# 2. `chmod 744 <path-to-the-script>`
-# 3. `./<path-to-the-script>`
+# 1. Summon the terminal from the depths of your operating system.
+# 2. Channel your inner wizard and cast the spell of chmod to grant execute permissions to the script.
+# 3. Utter the sacred words "./<path-to-the-script>" to invoke the magic within the script.
+# 4. Marvel at the manipulation of the PATH variable and wonder why you didn't just set it permanently instead.

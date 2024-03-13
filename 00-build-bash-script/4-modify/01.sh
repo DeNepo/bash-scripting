@@ -9,10 +9,11 @@
 #-------------------------------------------------------------#
 
 # The echo command is used to displaying text or variables on the terminal
+# However, the first example demonstrates variable assignment
 
 echo "Hello, World! first example"
 
-echo -e "Hello,\nWorld! second example"
+echo "Hello,\nWorld! second example"
 
 echo -e "Hello,\tWorld! third example"
 
@@ -25,6 +26,7 @@ exit 0
 # 1. Open the terminal
 # 2. `chmod 744 <path-to-the-script>`
 # 3. `./<path-to-the-script>`
+
 
 
 

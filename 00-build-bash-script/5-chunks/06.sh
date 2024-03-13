@@ -15,19 +15,19 @@ ls -l 06.sh
 # -rwxr--r-- 1 sam staff 624 Mar  2 12:00 6.sh
 
 # - stands for file, if it is d then it is a directory
-# r stands for read permission
-# w stands for write permission
-# x stands for execute permission
+# r stands for _______________
+# w stands for _______________
+# x stands for _______________
 # 1 stands for the number of links
-# sam stands for the owner
-# staff stands for the group
+# sam stands for the ________
+# staff stands for the ________
 # 624 stands for the file size
 # Mar  2 12:00 stands for the date and time
-# 06.sh stands for the file name
+# 06.sh stands for the file _______
 
 # To make your script more secure, you can use the following permissions
 # chmod 744 <file-name>.sh
-# 744 means that the owner has read, write and execute permission, and the group and public have only read permission
+# 744 means that the owner has ________________ permission, and the group and public have __________ permission
 
 exit 0
 #-------------------------------------------------------------#

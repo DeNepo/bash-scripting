@@ -12,7 +12,7 @@
 
 echo "$SHELL"
 
-echo "Your default shell is {$SHELL}"
+echo "Your default shell is __________"
 
 # Do we need double quotes at line 13 ?
 # Why $SHELL variable is all uppercase?
@@ -24,5 +24,5 @@ exit 0
 
 # How to run the script:
 # 1. Open the terminal
-# 2. `chmod 744 <path-to-the-script>`
-# 3. `./<path-to-the-script>`
+# 2. ________________________
+# 3. ________________________
