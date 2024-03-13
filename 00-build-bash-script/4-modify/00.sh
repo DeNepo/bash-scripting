@@ -14,12 +14,13 @@
 
 # 2. Commands
 
-# 3. Exit status will be at the end of the script
+# 3. Exit status will be at the beginning of the script  
 
-exit 0 
+exit 1 
 #-------------------------------------------------------------#
 
 # How to run the script:
 # 1. Open the terminal
 # 2. `chmod 744 <path-to-the-script>`
 # 3. `./<path-to-the-script>`
+

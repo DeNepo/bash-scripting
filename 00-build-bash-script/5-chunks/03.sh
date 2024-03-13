@@ -10,12 +10,12 @@
 
 # Comments used to describe the script or the code.
 
-# Single line comment.
+# __________ comment.
 
 
-# Multi-line comment.
-# Multi-line comment.
-# Multi-line comment.
+# __________ comment.
+# __________ comment.
+# __________ comment.
 
 echo "Comments in bash script." # Inline comment.
 

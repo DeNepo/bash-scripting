@@ -9,7 +9,7 @@
 #-------------------------------------------------------------#
 
 # To see the file permission, you can use the following command
-ls -l 06.sh
+ls -m 06.sh
 
 # The output will be similar to the following
 # -rwxr--r-- 1 sam staff 624 Mar  2 12:00 6.sh
@@ -26,8 +26,8 @@ ls -l 06.sh
 # 06.sh stands for the file name
 
 # To make your script more secure, you can use the following permissions
-# chmod 744 <file-name>.sh
-# 744 means that the owner has read, write and execute permission, and the group and public have only read permission
+# chmod 777 <file-name>.sh
+# 777 means that the owner has read, write and execute permission, and the group and public have only read permission
 
 exit 0
 #-------------------------------------------------------------#

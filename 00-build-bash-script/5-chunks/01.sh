@@ -12,13 +12,11 @@
 
 echo "Hello, World! first example"
 
-echo -e "Hello,\nWorld! second example"
+echo ____ "Hello,\nWorld! second example"
 
-echo -e "Hello,\tWorld! third example"
+echo _____ "Hello,\tWorld! third example"
 
-# What is the difference between the three echo commands above?
-
-exit 0
+___________
 #-------------------------------------------------------------#
 
 # How to run the script:

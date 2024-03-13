@@ -10,16 +10,16 @@
 
 # Shell script consists of three main components:
 
-# 1. Shebang must be the first line of the script
+# 1. __________________________________________
 
 # 2. Commands
 
-# 3. Exit status will be at the end of the script
+# 3. __________________________________________
 
 exit 0 
 #-------------------------------------------------------------#
 
 # How to run the script:
 # 1. Open the terminal
-# 2. `chmod 744 <path-to-the-script>`
+# 2. ________________________
 # 3. `./<path-to-the-script>`

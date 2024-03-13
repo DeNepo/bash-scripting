@@ -16,7 +16,7 @@
 # 4. Description : what the script does
 # 5. Usage : how to use the script 
 
-exit 0
+exit 25
 #-------------------------------------------------------------#
 # How to run the script:
 # 1. Open the terminal

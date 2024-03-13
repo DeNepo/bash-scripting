@@ -17,9 +17,9 @@
 # Multi-line comment.
 # Multi-line comment.
 
-echo "Comments in bash script." # Inline comment.
+echo "Comments in bash $script." # Inline comment.
 
-# Why the shebang is not a comment?
+# Why the shebang is not a comment? 
 
 exit 0
 #-------------------------------------------------------------#
@@ -28,4 +28,5 @@ exit 0
 # 1. Open the terminal
 # 2. `chmod 744 <path-to-the-script>`
 # 3. `./<path-to-the-script>`
+
 
