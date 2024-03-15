@@ -1,8 +1,8 @@
-#!/bin/bash
+#!/opt/homebrew/bin/bash
 
 # Author: Samir M.
 # Date: 2024-03-12
-# Modified: 2024-03-12
+# Version: 1.0
 # Description: Set up secure script permissions
 # Usage: ./06.sh
 
@@ -29,9 +29,8 @@ ls -l 06.sh
 # chmod 744 <file-name>.sh
 # 744 means that the owner has read, write and execute permission, and the group and public have only read permission
 
-exit 0
-
 #-------------------------------------------------------------#
+exit 0
 
 # How to run the script:
 # 1. Open the terminal

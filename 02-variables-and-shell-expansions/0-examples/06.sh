@@ -1,12 +1,12 @@
-#!/bin/bash
+#!/opt/homebrew/bin/bash
 
 # Author: Samir M.
 # Date: 2024-03-03
-# Modified: 2024-03-03
+# Version: 1.0
 # Description:  Parameter expansion
-# Usage: ./04.sh
+# Usage: ./06.sh
 
-
+# ------------------------------------------------------------------#
 # What is parameter expansion?
 # When we use a varibale with curly braces, that is what we call parameter expansion.
 name="Sam"
@@ -40,7 +40,5 @@ echo ${name:1}
 # We can also use negative numbers to count from the end of the string
 echo ${name: -1} # Note the space between the colon and the negative number is important
 
-
+# ------------------------------------------------------------------#
 exit 0
-
-

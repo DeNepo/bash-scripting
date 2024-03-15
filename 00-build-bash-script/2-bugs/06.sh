@@ -1,8 +1,8 @@
-#!/bin/bash
+#!/opt/homebrew/bin/bash
 
 # Author: Samir M.
 # Date: 2024-03-12
-# Modified: 2024-03-12
+# Version: 1.0
 # Description: Set up secure script permissions
 # Usage: ./06.sh
 
@@ -29,10 +29,5 @@ ls -m 06.sh
 # chmod 777 <file-name>.sh
 # 777 means that the owner has read, write and execute permission, and the group and public have only read permission
 
-exit 0
 #-------------------------------------------------------------#
-
-# How to run the script:
-# 1. Open the terminal
-# 2. `chmod 744 <path-to-the-script>`
-# 3. `./<path-to-the-script>`
+exit 0

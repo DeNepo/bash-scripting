@@ -1,8 +1,8 @@
-#!/bin/bash
+#!/opt/homebrew/bin/bash
 
 # Author: Samir M.
 # Date: 2024-03-12
-# Modified: 2024-03-12
+# Version: 1.0
 # Description: Achieving script security through proper permissions.
 # Usage: Execute the script and witness the wonders of secure scripting!
 
@@ -26,12 +26,5 @@ ls -l 06.sh # Behold the cryptic output that reveals the secrets of file permiss
 
 # chmod 744 <file-name>.sh - This incantation bestows upon the owner full control and grants mere mortals read-only access.
 
-exit 0
-
 #-------------------------------------------------------------#
-
-# How to run the script:
-# 1. Summon the terminal from the depths of your operating system.
-# 2. Channel your inner wizard and cast the spell of chmod to grant execute permissions to the script.
-# 3. Utter the sacred words "./<path-to-the-script>" to invoke the magic within the script.
-# 4. Marvel at the wonders of file permissions and contemplate the complexities of script security.
+exit 0

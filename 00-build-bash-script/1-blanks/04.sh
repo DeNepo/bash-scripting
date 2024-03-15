@@ -1,8 +1,8 @@
-#!/bin/bash
+#!/opt/homebrew/bin/bash
 
 # Author: __________
 # Date: __________
-# Modified: __________
+# Version: __________
 # Description:  Make your script more professional.
 # Usage: ./___.sh
 
@@ -12,13 +12,9 @@
 
 # 1. __________ : the name of the person who created the script
 # 2. __________ : the date when the script was created
-# 3. __________ : the date when the script was last modified
+# 3. __________ : the version of the script
 # 4. __________ : what the script does
-# 5. __________ : how to use the script 
+# 5. __________ : how to use the script
 
-exit 0
 #-------------------------------------------------------------#
-# How to run the script:
-# 1. Open the ________
-# 2. `chmod ___ <path-to-the-script>`
-# 3. `./<path-to-the-script>`
+exit 0

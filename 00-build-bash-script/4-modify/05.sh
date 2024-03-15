@@ -1,13 +1,11 @@
-#!/bin/bash
-
+#!/opt/homebrew/bin/bash
 # Author: Samir M.
 # Date: 2024-03-12
-# Modified: 2024-03-12
+# Version: 1.0
 # Description: Add and remove scripts to/from the PATH
 # Usage: ./05.sh
 
 #-------------------------------------------------------------#
-
 
 # To see the PATH variable, you can use the following command
 echo "{$PATH}"
@@ -24,10 +22,5 @@ export PATH=${PATH%:"$PATH"/Desktop/work/master-classes/bash-scripting/00-build-
 
 echo "{$PATH}"
 
-exit 0
 #-------------------------------------------------------------#
-
-# How to run the script:
-# 1. Open the terminal
-# 2. `chmod 744 <path-to-the-script>`
-# 3. `./<path-to-the-script>`
+exit 0

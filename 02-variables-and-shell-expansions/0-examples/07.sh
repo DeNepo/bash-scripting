@@ -1,11 +1,12 @@
-#!/bin/bash
+#!/opt/homebrew/bin/bash
 
 # Author: Samir M.
 # Date: 2024-03-03
-# Modified: 2024-03-03
+# Version: 1.0
 # Description:  Command substitution
-# Usage: ./05.sh
+# Usage: ./07.sh
 
+# ------------------------------------------------------------------#
 # What is command substitution?
 # Command substitution is a mechanism by which the shell performs a command and replaces it with its output or in a varibale.
 
@@ -25,6 +26,9 @@ echo "The current date and time is: ${time}"
 # %M: Minute (e.g. 30)
 # %S: Second (e.g. 30)
 
-
 # Another example
 echo "The current date and time is: $(date +"%Y-%m-%d %H:%M:%S")"
+
+# ------------------------------------------------------------------#
+
+exit 0

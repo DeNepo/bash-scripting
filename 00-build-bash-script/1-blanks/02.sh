@@ -1,8 +1,8 @@
-#!/bin/bash
+#!/opt/homebrew/bin/bash
 
 # Author: __________
 # Date: __________
-# Modified: __________
+# Version: __________
 # Description: The $SHELL variable
 # Usage: ./___.sh
 
@@ -19,11 +19,5 @@ echo "Your default shell is {________}"
 # Can I change the default shell? How?
 # Are there any other shell variables?
 
-exit 0
-
 #-------------------------------------------------------------#
-
-# How to run the script:
-# 1. Open the ________
-# 2. `chmod ___ <path-to-the-script>`
-# 3. `./<path-to-the-script>`
+exit 0

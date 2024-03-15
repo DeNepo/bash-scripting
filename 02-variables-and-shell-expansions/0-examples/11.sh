@@ -1,11 +1,12 @@
-#!/bin/bash
+#!/opt/homebrew/bin/bash
 
 # Author: Samir M.
 # Date: 2024-03-04
-# Modified: 2024-03-04
+# Version: 1.0
 # Description: Brace expansion
-# Usage: ./10.sh
+# Usage: ./11.sh
 
+# ------------------------------------------------------------------#
 # What is brace expansion?
 # Brace expansion is a way to generate a text with a specific pattern.
 
@@ -35,5 +36,5 @@ echo {a..e..2} # a c e
 echo Month{01..12} # Month01 Month02 Month03 ... Month12
 echo {01..12}Month # 01Month 02Month 03Month ... 12Month
 
+# ------------------------------------------------------------------#
 exit 0
-
