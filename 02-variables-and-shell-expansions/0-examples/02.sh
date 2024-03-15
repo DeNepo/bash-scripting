@@ -1,11 +1,10 @@
 #!/bin/bash
 
 # Author: Samir M.
-# Date: 2024-03-03
-# Modified: 2024-03-03
+# Date: 2024-03-15
+# Modified: 2024-03-15
 # Description:  Variables(User defined variables)
 # Usage: ./02.sh
-
 
 # What is a variable?
 # A variable is a container that holds values that are used in a bash script.
@@ -14,7 +13,7 @@
 # By convention user variables are declared in lower case.
 # No space is allowed between the variable name and the value.
 # If the varibales is more than one word, use underscore to separate the words.
-# Syntax: 
+# Syntax:
 # variable_name=value
 
 # Example:
@@ -33,5 +32,4 @@ echo "Hello, $name"
 # Example:
 echo "Hello, ${name}"
 
-
-exit 0 
+exit 0
