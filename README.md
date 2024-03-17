@@ -1,8 +1,8 @@
-# Bash Scripting Master Class
+# Bash Scripting
 
 ## Introduction
 
-Welcome to Bash Scripting Master class! This course is designed to provide you with a thorough understanding of Bash scripting, empowering you to automate tasks, enhance your productivity, and delve into the world of shell scripting.
+Welcome to Bash Scripting Course! This course is designed to provide you with a thorough understanding of Bash scripting, empowering you to automate tasks, enhance your productivity, and delve into the world of shell scripting.
 
 ## Course Overview
 
