@@ -6,14 +6,14 @@
 # Description:  Variables(Shell defined)
 # Usage: ./03.sh
 
-
+#------------------------------------------------------------------#
 # What is a shell variable?
 # A shell variable is a variable that is defined by the shell and have a useful value .
 # By convention shell variables are declared in upper case.
 
 # How to use a shell variable?
 # 1. use the variable name with a dollar sign in front of it.
-echo $HOME
+echo "$HOME"
 
 # 2. use a variable in a string?
 # Example:
@@ -51,6 +51,6 @@ echo "The type of the computer is $HOSTTYPE"
 # PS1: The primary prompt string, which is displayed before each command and you can customize it.
 echo "The primary prompt string is $PS1"
 
+# ------------------------------------------------------------------#
 
 exit 0
-
