@@ -15,7 +15,11 @@ age=30
 echo "User-defined Variables Example:"
 echo "Name: $name"
 echo "Age: $age"
-echo
+
+# Shell Variables
+echo "Environment Variables Example:"
+echo "Home Directory: $HOME"
+echo "User Name: $USER"
 
 # Positional Parameters
 echo "Positional Parameters Example:"
