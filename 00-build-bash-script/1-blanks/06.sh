@@ -1,8 +1,8 @@
-#!/bin/bash
+#!/opt/homebrew/bin/bash
 
 # Author: __________
 # Date: __________
-# Modified: __________
+# Version: __________
 # Description: Set up secure script permissions
 # Usage: ./___.sh
 
@@ -29,10 +29,5 @@ ls -l ___.sh
 # chmod ________ <file-name>.sh
 # ________ means that the owner has read, write and execute permission, and the group and public have only read permission
 
-exit 0
 #-------------------------------------------------------------#
-
-# How to run the script:
-# 1. Open the ________
-# 2. `chmod ___ <path-to-the-script>`
-# 3. `./<path-to-the-script>`
+exit 0

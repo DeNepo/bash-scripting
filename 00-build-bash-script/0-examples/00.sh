@@ -1,8 +1,8 @@
-#!/bin/bash  
+#!/opt/homebrew/bin/bash
 
 # Author: Samir M.
 # Date: 2024-03-12
-# Modified: 2024-03-12
+# Version : 1.0
 # Description: The main components of a shell script
 # Usage: ./00.sh
 
@@ -16,8 +16,9 @@
 
 # 3. Exit status will be at the end of the script
 
-exit 0 
 #-------------------------------------------------------------#
+
+exit 0
 
 # How to run the script:
 # 1. Open the terminal

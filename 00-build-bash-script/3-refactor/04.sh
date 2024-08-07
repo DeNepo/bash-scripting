@@ -1,8 +1,8 @@
-#!/bin/bash
+#!/opt/homebrew/bin/bash
 
 # Author: Samir M.
 # Date: 2024-03-02
-# Modified: 2024-03-02
+# Version: 1.0
 # Description: Making your script look more professional, because why not?
 # Usage: Execute the script and witness the illusion of professionalism!
 
@@ -20,12 +20,5 @@
 
 # 5. Usage: Instructions on how to wield this powerful tool. Handle with care!
 
-exit 0
-
 #-------------------------------------------------------------#
-
-# How to run the script:
-# 1. Summon the terminal from the depths of your operating system.
-# 2. Channel your inner wizard and cast the spell of chmod to grant execute permissions to the script.
-# 3. Speak the sacred words "./<path-to-the-script>" to invoke the magic within the script.
-# 4. Behold the wonders of professionalism as the script executes its mysterious tasks.
+exit 0

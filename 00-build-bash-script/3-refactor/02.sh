@@ -1,8 +1,8 @@
-#!/bin/bash
+#!/opt/homebrew/bin/bash
 
 # Author: Samir M.
 # Date: 2024-03-12
-# Modified: 2024-03-12
+# Version: 1.0
 # Description: Demonstrating the usage of the $SHELL variable.
 # Usage: Execute the script and marvel at the magic of shell variables!
 
@@ -22,15 +22,6 @@ echo "Your default shell is {$SHELL}" # But wait, do we really need those curly 
 
 # And hey, are there any other shell variables? Maybe. But that's a mystery for another day.
 
-exit 0
-
 #-------------------------------------------------------------#
 
-# How to run the script:
-# 1. Open the terminal
-# 2. Locate the script file hidden somewhere in your directories
-# 3. Try to recall the chmod command syntax and those cryptic numbers
-# 4. Execute the script with the usual combination of dots and slashes
-# 5. Reflect on the mysteries of shell variables while wondering why you ran this script in the first place
-
-
+exit 0

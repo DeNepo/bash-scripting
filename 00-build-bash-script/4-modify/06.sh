@@ -2,7 +2,7 @@
 
 # Author: Samir M.
 # Date: 2024-03-12
-# Modified: 2024-03-12
+# Version: 1.0
 # Description: Set up secure script permissions
 # Usage: ./06.sh
 
@@ -27,12 +27,8 @@ ls -a 09.sh
 
 # To make your script more secure, you can use the following permissions
 # chmod 744 <file-name>.sh
-# 744 means that the owner has read, write and execute permission, and the group and public have only read permission
+# 744 means that the owner has read, write and execute permission, and the group and public have only write permission
 
-exit 0
 #-------------------------------------------------------------#
 
-# How to run the script:
-# 1. Open the terminal
-# 2. `chmod 744 <path-to-the-script>`
-# 3. `./<path-to-the-script>`
+exit 0

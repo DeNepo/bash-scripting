@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/opt/homebrew/bin/bash
 
 # Author: Samir M.
 # Date: 2024-03-02
@@ -12,20 +12,14 @@
 
 # __________ comment.
 
-
 # __________ comment.
 # __________ comment.
 # __________ comment.
 
 echo "Comments in bash script." # Inline comment.
 
-# Why the shebang is not a comment?
+# Is the shebang a comment?
 
-exit 0
 #-------------------------------------------------------------#
 
-# How to run the script:
-# 1. Open the terminal
-# 2. `chmod 744 <path-to-the-script>`
-# 3. `./<path-to-the-script>`
-
+exit 0

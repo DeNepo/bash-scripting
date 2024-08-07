@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/opt/homebrew/bin/bash
 
 # Author: Samir M.
 # Date: 2024-03-13
@@ -26,7 +26,7 @@ touch 01.sh # File exists
 # 4. Permission Denied Errors
 
 # Example of Permission Denied Error: Attempting to write to a directory without proper permissions
-echo "Hello" < /root/test.txt # Permission denied
+echo "Hello" </root/test.txt # Permission denied
 
 # 5. Command Not Found Errors
 
@@ -35,8 +35,7 @@ hello # Command not found
 
 # Ensure that the command is correctly spelled or installed
 
-#------------------------------------------------------------------#
-
 chmod 444 "$0"
+#------------------------------------------------------------------#
 
 exit 0
